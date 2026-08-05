@@ -1,5 +1,5 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: YAshwanth asv </h3>
+<h3>Name: Yashwanth asv </h3>
 <h3>Register Number: 212224230309</h3>
 <h3>Date: 22-07-2026 </h3>
 
